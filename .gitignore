@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# JSON data file
+data/users.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Package lock file (if you want to ignore it)
+# package-lock.json
+
+# Other files to ignore
+*.tmp
+*.bak
+*.swp
